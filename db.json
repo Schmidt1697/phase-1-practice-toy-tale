@@ -47,6 +47,12 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "name": "Anna Schmidt",
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/cute-cat-photos-1593441022.jpg?crop=0.669xw:1.00xh;0.166xw,0&resize=640:*",
+      "likes": 0,
+      "id": 9
     }
   ]
 }
